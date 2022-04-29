@@ -8,6 +8,7 @@ if (environment.production) {
   enableProdMode();
 }
 
+// tet122
 // test
 // main.ts 를 통해 우리가 작성하는 AppModule 이라는 app.module.ts 파일를 가장 먼저 실행시킨다.
 platformBrowserDynamic().bootstrapModule(AppModule)
