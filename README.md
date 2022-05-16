@@ -1,4 +1,2 @@
-# hello-angular
-📌 angular 입문 / 공부 목적
- 
-  
+# Web Stopwatch
+angular 기본
